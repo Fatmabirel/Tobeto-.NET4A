@@ -1,0 +1,14 @@
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\bin\Debug\net8.0\Week1Homework6.exe
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\bin\Debug\net8.0\Week1Homework6.deps.json
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\bin\Debug\net8.0\Week1Homework6.runtimeconfig.json
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\bin\Debug\net8.0\Week1Homework6.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\bin\Debug\net8.0\Week1Homework6.pdb
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.AssemblyInfoInputs.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.AssemblyInfo.cs
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\refint\Week1Homework6.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.pdb
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\Week1Homework6.genruntimeconfig.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\Week1Homework6\Week1Homework6\obj\Debug\net8.0\ref\Week1Homework6.dll
