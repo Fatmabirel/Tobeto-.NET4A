@@ -1,0 +1,14 @@
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\net8.0\NesneYönelimliProgramlama.exe
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\net8.0\NesneYönelimliProgramlama.deps.json
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\net8.0\NesneYönelimliProgramlama.runtimeconfig.json
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\net8.0\NesneYönelimliProgramlama.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\bin\Debug\net8.0\NesneYönelimliProgramlama.pdb
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.AssemblyInfoInputs.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.AssemblyInfo.cs
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.csproj.CoreCompileInputs.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\refint\NesneYönelimliProgramlama.dll
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.pdb
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\NesneYönelimliProgramlama.genruntimeconfig.cache
+C:\Users\Fatma Birel\Desktop\Tobeto\UygulamalarlaC#\NesneYönelimliProgramlama\NesneYönelimliProgramlama\obj\Debug\net8.0\ref\NesneYönelimliProgramlama.dll
